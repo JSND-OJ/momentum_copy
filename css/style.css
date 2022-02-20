@@ -1,3 +1,43 @@
 .hidden {
-    display: none;
+  display: none;
+}
+
+#weather {
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  text-align: right;
+  color: antiquewhite;
+}
+
+#clock {
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 100px;
+  text-align: center;
+  color: antiquewhite;
+  text-shadow: ;
+}
+
+#todo-form {
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+    color: antiquewhite;
+}
+
+#todo-list {
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+    color: aquamarine;
+}
+
+#quote {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    text-align: center;
 }
